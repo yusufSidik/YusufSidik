@@ -13,10 +13,12 @@ Hai, saya Kholid Yusuf Sidik freshgraduate dari lulusan S1 Sistem Informasi di S
  - Bootstrap
 
 ### Projek:
-- [Sistem Informasi Pelayanan Publik](http://keljawa22.epizy.com)
-- [Landing Page Drone](https://yusufsidik.github.io/landing-page-drone/)
--
-
+- [Sistem Informasi Pelayanan Publik](http://keljawa22.epizy.com)<br>
+  Membuat website pembuatan surat keterangan pada Kelurahan Jawa yang dimana website ini menjadi tugas akhir perkuliahan menggunakan teknologi Framework Codeigniter 3.
+- [Landing Page Drone](https://yusufsidik.github.io/landing-page-drone/) <br>
+  Slicing Web Design Figma ke CSS menggunakan framework Bootstrap.
+- [E-Commerece Rowhills Secondhand](https://rowhills.web.id) <br>
+  Membangun website toko online __Rowhills Secondhand__ menggunakan teknologi Laravel sebagai Back End dan Vue Js sebagai Front End.
 ### Pendidikan:
 - STMIK WIdya Cipta Dharma Samarinda | Sistem Informasi `(2016 - 2021)`
 - SMK Negeri 6 Samarinda | Teknik Kendaraan Ringan `(2013 - 2016)`
