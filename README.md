@@ -1,4 +1,4 @@
-## Junior Web Developer 
+## Web Developer 
 Hai, saya Kholid Yusuf Sidik freshgraduate dari lulusan S1 Sistem Informasi di STMIK Widya Cipta Dharma Samarinda. Selama menempuh perkuliahan yang saya ikuti, Web Development merupakan salah satu minat dan ketertarikan saya, adapun kemampuan yang sudah saya pelajari dari masa perkuliahan ialah : 
 
 ### Bahasa Pemrograman & Framework:
